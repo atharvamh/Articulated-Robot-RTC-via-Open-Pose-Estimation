@@ -1,4 +1,4 @@
-# Real Time Control of Articulated Robot via Open Pose Estimation (RAACOPA)
+# Real Time Control of Articulated Robot via Open Pose Estimation (RTC-AROPE)
 1. The objective of this project was to control a robotic arm solely by the user's arm movements - the shoulder and elbow movements without
  the use of any physical sensors (such as accelerometer, gyro , etc.) by the user.
 2. This was achieved by the OpenPose body pose detection algorithm that detects key points on the user
